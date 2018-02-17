@@ -15,7 +15,6 @@ Get Top 100 Coins Ranks, Prices, Market caps, Volume & More.
 
 ```
 git clone https://github.com/mskian/coinprice-bash.git
-
 ```
 
 or
@@ -24,7 +23,6 @@ or
 
 ```
 wget --no-check-certificate https://gist.githubusercontent.com/mskian/bfe75e7e67028040a68f190b36edaa5f/raw/28eeba61ae3532d523adcd862f2491aeaa8a0fab/coinprice.sh
-
 ```
 
 - Execute the script
@@ -82,7 +80,7 @@ bash coinprice.sh
 
 ## API
 
-CoinMarketcap API 💯
+CoinMarketCap API 💯
 
 ## Donate
 
