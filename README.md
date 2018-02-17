@@ -1,15 +1,17 @@
 # CoinPrice bash Script
 
+<a target="_blank" href="https://github.com/mskian/coinprice-bash/blob/master/LICENSE" title="License: GPL"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
+
 Coin Price - Cryptocurrency Price Ticker 🔥
 
 Shell Script to Get a Cryptocurrency Prices on your Terminal 🔥
 
 Get Top 100 Coins Ranks, Prices, Market caps, Volume & More.
 
-## Requirments
+## Requirements
 
 - cURL
-- jq (sudo apt install jq)
+- jq ( `sudo apt install jq` )
 
 ## How to use?
 
