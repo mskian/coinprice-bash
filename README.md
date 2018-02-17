@@ -1,4 +1,6 @@
-# Coin Price bash Script
+# CoinPrice bash Script
+
+Coin Price - Cryptocurrency Price Ticker 🔥
 
 Shell Script to Get a Cryptocurrency Prices on your Terminal 🔥
 
