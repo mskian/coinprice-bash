@@ -26,7 +26,7 @@ or
 - Download bash file via wget
 
 ```
-wget --no-check-certificate https://gist.githubusercontent.com/mskian/bfe75e7e67028040a68f190b36edaa5f/raw/28eeba61ae3532d523adcd862f2491aeaa8a0fab/coinprice.sh
+wget --no-check-certificate https://gist.githubusercontent.com/mskian/bfe75e7e67028040a68f190b36edaa5f/raw/873dc3a8298f4587dd99a69813de768664581119/coinprice.sh
 ```
 
 - Execute the script
